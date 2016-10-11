@@ -3,14 +3,13 @@
     'name': "openacademy",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        Use for training odoo8""",
 
     'description': """
         Long description of module's purpose
     """,
 
-    'author': "Your Company",
+    'author': "KPSoft",
     'website': "http://www.yourcompany.com",
 
     # Categories can be used to filter modules in modules listing
